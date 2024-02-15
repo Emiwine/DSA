@@ -12,5 +12,5 @@ int main(){
         cout<<("Number is odd")<<endl;
     }
     return 0;
-    
+    cout<<"program ends here "<<endl;
 }
