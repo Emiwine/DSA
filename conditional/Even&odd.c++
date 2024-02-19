@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    cout<<"Program starts here"<<endl ;
     int n;
     cin>>n;
 
@@ -13,4 +14,5 @@ int main(){
     }
     return 0;
     cout<<"program ends here "<<endl;
+    
 }
