@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
     int a[] = {3,1,2,4,0,6};
-    int targetsum = 6;
+    int targetsum = 7;
     int size = 6;
 
     int counttriplet = 0;
